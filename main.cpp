@@ -18,7 +18,7 @@ double x = 0;
 double y = 0;
 double z = -2.5;
 
-std::string path = "/Users/rohansawhney/Desktop/developer/C++/geodesics/bunny.obj";
+std::string path = "../bunny.obj";
 
 Mesh mesh;
 bool success = true;
